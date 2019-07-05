@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "express-generator": "^4.16.1",
+    "jasmine": "^3.4.0",
     "nodemon": "^1.19.1",
     "sequelize-cli": "^5.5.0"
   },
